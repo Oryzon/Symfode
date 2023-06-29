@@ -1,0 +1,6 @@
+{
+    "ignore": ["public", "node_modules", "src/command/*", "examples"],
+    "watch": ["*"],
+    "exec": "npm run dev:load",
+    "ext": "ts"
+}
